@@ -15,7 +15,7 @@ Provide an engaging user experience with smooth animations and modern UI design
 Serve as a central hub for recruiters, collaborators, and developers
 
 🧑‍💻 Tech Stack Used
-Frontend
+Tools & Platforms
 
 React.js (Vite)
 
@@ -24,14 +24,6 @@ Tailwind CSS
 Framer Motion (animations)
 
 Three.js / React Three Fiber (3D elements)
-
-Backend / AI Integration
-
-Python
-
-Django / Node.js (project-specific integrations)
-
-TensorFlow / Machine Learning models
 
 Tools & Platforms
 
