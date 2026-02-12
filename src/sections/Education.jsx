@@ -9,6 +9,7 @@ function EducationCard({ title, college, year, description }) {
         p-7 shadow-lg transition-all duration-500
         hover:-translate-y-2 hover:shadow-blue-900/50
       "
+      id = "education"
     >
       <div className="flex flex-col gap-5">
         {/* Icon */}
